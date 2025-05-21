@@ -1,0 +1,54 @@
+Utilise les informations de mon CV pour structurer un portfolio interactif et professionnel. 
+Mets en avant mon parcours en informatique, mes compétences en développement web, bases de données, administration système et gestion de projet. 
+Intègre une section claire pour mes expériences professionnelles, notamment mes stages et emplois. 
+Optimise l'affichage des compétences techniques et des outils utilisés. 
+Assure-toi que le design soit moderne, responsive et accessible, avec une navigation fluide et une mise en page épurée.
+
+Liste des informations de mon CV
+Informations personnelles :
+
+    Nom : Faccin
+    Prénom : Sylvain
+    Âge : 20 ans
+    Statut : Étudiant en informatique
+    Formation actuelle : BTS SIO (Services Informatiques aux Organisations) – Option SLAM
+    Établissement : Institut Limayrac
+
+Coordonnées :
+
+    Téléphone : 07 89 44 01 44
+    Email : faccin.sylvain31@gmail.com
+
+Compétences et savoir-faire :
+
+    Développement Web : HTML, CSS, PHP, JavaScript
+    Bases de données : Modélisation, SQL, MySQL
+    Conception et gestion de systèmes d’information
+    Analyse et conception UML
+    Administration de réseaux et systèmes : Windows, Linux
+    Sécurité informatique : Gestion des droits, cryptographie, pare-feu
+    Virtualisation et cloud computing
+    Gestion de projet : Méthodes agiles, gestion de planning
+    Support et maintenance informatique : Diagnostic de pannes, gestion des utilisateurs
+    Permis B : Véhicule personnel
+
+Expérience professionnelle :
+
+    Mai 2023 - Octobre 2024 | Heteractis (Stagiaire) – Développement Web et appréhension de l’IA
+    Mai 2023 - Juillet 2023 | Conception d’une plateforme interactive – Création de sites web modulables avec IA
+    Mars 2022 - Mai 2022 | Davtech (Stagiaire) – Maintenance informatique et relation client
+    Mai 2021 - Juin 2021 | Cortex Informatique (Stagiaire) – Maintenance informatique et relation client
+    Janvier 2020 - Février 2020 | PRS Technologies (Stagiaire) – Usinage et fabrication de pièces aéronautiques
+    2023 - 2024 | McDonald's (CDI) – Employé polyvalent
+
+Formation :
+
+    BTS SIO (SLAM) – Institut Limayrac
+    Bac Professionnel Systèmes Numériques – Lycée Professionnel Privé « Les Potiers »
+    Diplôme SST (Sauveteur Secouriste du Travail) – Lycée Professionnel Privé « Les Potiers »
+
+Centres d’intérêt :
+
+    Voyages : Passionné par la découverte de nouvelles cultures et expériences enrichissantes
+    Sport : Adepte du HIIT, entraînement régulier pour améliorer condition physique et endurance
+    Temps libre : Jeux d’échecs (réflexion stratégique), jeux RTS (gestion et prise de décision rapide)
