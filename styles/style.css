@@ -1,7 +1,7 @@
 /* Variables globales */
 :root {
     --primary-color: #2563eb;
-    --secondary-color: #1e40af;
+    --secondary-color: #2349c4;
     --text-color: #1f2937;
     --background-color: #ffffff;
     --section-bg: #f3f4f6;
@@ -743,6 +743,13 @@ h2 {
     color: var(--primary-color);
     margin-bottom: 1rem;
 }
+
+.resource-link i {
+    font-size: 2.5rem;
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+}
+
 
 .resource-card h3 {
     color: var(--text-color);
