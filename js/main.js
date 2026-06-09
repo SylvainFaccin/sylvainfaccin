@@ -18,7 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // --- Active Link on Scroll (Optionnel mais cool) ---
     // Change la couleur du lien dans le menu selon la section visible
     const sections = document.querySelectorAll('section');
     
@@ -33,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         navLinks.forEach(link => {
-            link.classList.remove('active-section'); // Tu peux ajouter un style CSS pour .active-section
+            link.classList.remove('active-section'); 
             if (link.getAttribute('href').includes(current)) {
                 link.classList.add('active-section');
             }
